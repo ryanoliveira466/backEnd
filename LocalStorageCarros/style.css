@@ -1,0 +1,168 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(247, 241, 234);
+}
+
+.titulos{
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#registro input,#registro h2{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#registro h2{
+    width: 50%;
+}
+ 
+input{
+    width: 50% !important;
+}
+
+#titulo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+#adicionar{
+    width: 50%;
+}
+
+#registro{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#containerRegistro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#carrosCadastrados{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top:30px ;
+}
+
+.carros{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.carros p{
+    padding: 10px;
+}
+
+.carros h2{
+    font-weight: bold;
+    padding: 5px;
+}
+
+.carros button{
+    margin: 5px;
+}
+
+#car-form{
+    width: 100%;
+}
+
+@media only screen and (max-width: 390px) {
+    .titulos{
+        font-weight: bold;
+        font-size: 25px;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+  }
+
+  ul{
+    border: 3px solid;
+}
+
+li span{
+    margin: 10px;
+}
+
+li button{
+    margin: 5px;
+}
+
+li strong{
+    font-weight: bold;
+}
+
+li{
+  border-bottom: 1px solid !important;  
+}
+ 
