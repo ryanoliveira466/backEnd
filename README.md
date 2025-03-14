@@ -157,5 +157,3 @@ O banco de dados é **onde os dados da aplicação são armazenados, organizados
 | 🗄️ Banco de Dados | Armazenamento de informações                   | MySQL, MongoDB, PostgreSQL |
 
 ---
-
-Agora você tem uma compreensão clara e profunda sobre como o **backend**, a **API** e o **banco de dados** trabalham juntos para criar aplicações poderosas e eficientes! 🚀
