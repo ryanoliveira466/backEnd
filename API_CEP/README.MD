@@ -119,7 +119,6 @@ Se houver erro na consulta, o sistema informa ao usuário:
 
 ---
 
----
 
 ## 📋 Funcionalidades da API REST (ViaCEP)
 
