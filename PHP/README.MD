@@ -39,3 +39,4 @@ Aprender a desenvolver sistemas utilizando PHP para banco de dados/backend.
 php -S localhost:8000
 ```
 * Devemos estar exatamente no arquivo do projeto com uma página index.php para acessar o projeto pelo localhost.
+* Pronto, agora você pode usar o PHP para se conectar com o seu banco de dados
