@@ -34,7 +34,7 @@ Aprender a desenvolver sistemas utilizando PHP para banco de dados/backend.
 
  <img src="https://github.com/ryanoliveira466/backEnd/blob/main/PHP/1%20-%20img/t3.png" width="500" />
 
-* Após isso devemos executar esse comando no terminal.
+* Após isso devemos executar esse comando no terminal:
 ```bash
 php -S localhost:8000
 ```
