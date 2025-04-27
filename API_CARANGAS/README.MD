@@ -1,6 +1,4 @@
-Beleza! Vou deixar o **Markdown** ainda **mais detalhado**, explicando o que cada método/função faz e mostrando o trecho de **código** para cada funcionalidade.
 
-Aqui está a nova versão:
 
 ---
 
@@ -281,6 +279,3 @@ O CSS tem dois papéis principais:
 - **API REST (`https://carangas.herokuapp.com`)**
 
 ---
-
-Se quiser, também posso gerar uma **versão ainda mais organizada** tipo documentação de API REST (ex: Swagger-like).  
-Quer que eu também monte? 🚀📚
