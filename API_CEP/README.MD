@@ -119,16 +119,6 @@ Se houver erro na consulta, o sistema informa ao usuário:
 
 ---
 
-## 🔥 Fluxo Resumido da API
-
-```mermaid
-flowchart TD
-    A[Usuário digita o CEP] --> B[Clique no botão "Consultar"]
-    B --> C[Faz requisição GET na API ViaCEP]
-    C -->|Sucesso| D[Exibe dados de endereço]
-    C -->|Erro| E[Exibe mensagem de erro]
-```
-
 ---
 
 ## 📋 Funcionalidades da API REST (ViaCEP)
