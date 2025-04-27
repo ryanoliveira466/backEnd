@@ -5,7 +5,7 @@ Este repositório contém atividades de prática sobre banco de dados/backend ut
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/PHP_Logo.png/640px-PHP_Logo.png" width="400" />
 
 ## Objetivo
-Aprender a desenvolver sistemas utilizando PHP para banco de dados/backend .
+Aprender a desenvolver sistemas utilizando PHP para banco de dados/backend.
 
 ## Dependências
 
@@ -26,10 +26,16 @@ Aprender a desenvolver sistemas utilizando PHP para banco de dados/backend .
 
 ## Como utilizar
 
-* Para utilizar o PHP devemos definir o seu PATH em variáveis do sistema
+* Para utilizar o PHP devemos definir o seu PATH em variáveis do sistema.
 
  <img src="https://github.com/ryanoliveira466/backEnd/blob/main/PHP/1%20-%20img/t1.png" width="500" />
 
  <img src="https://github.com/ryanoliveira466/backEnd/blob/main/PHP/1%20-%20img/t2.png" width="500" />
 
  <img src="https://github.com/ryanoliveira466/backEnd/blob/main/PHP/1%20-%20img/t3.png" width="500" />
+
+* Após isso devemos executar esse comando no terminal.
+```bash
+php -S localhost:8000
+```
+* Devemos estar exatamente no arquivo do projeto com uma página index.php para acessar o projeto pelo localhost.
