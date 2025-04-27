@@ -28,8 +28,8 @@ Aprender a desenvolver sistemas utilizando PHP para banco de dados/backend .
 
 * Para utilizar o PHP devemos definir o seu PATH em variáveis do sistema
 
- <img src="https://github.com/ryanoliveira466/backEnd/blob/main/PHP/1%20-%20img/t1.png" width="700" />
+ <img src="https://github.com/ryanoliveira466/backEnd/blob/main/PHP/1%20-%20img/t1.png" width="500" />
 
- <img src="https://github.com/ryanoliveira466/backEnd/blob/main/PHP/1%20-%20img/t2.png" width="700" />
+ <img src="https://github.com/ryanoliveira466/backEnd/blob/main/PHP/1%20-%20img/t2.png" width="500" />
 
- <img src="https://github.com/ryanoliveira466/backEnd/blob/main/PHP/1%20-%20img/t3.png" width="700" />
+ <img src="https://github.com/ryanoliveira466/backEnd/blob/main/PHP/1%20-%20img/t3.png" width="500" />
