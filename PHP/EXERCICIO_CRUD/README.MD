@@ -87,6 +87,6 @@ Quando listamos todos os elementos do banco de dados onde se encontram os botõe
  <button class="btn btn-warning m-1" onclick="window.location.href='/stones/form?id=<?= $item->id ?>';">✏</button>
 ```
 
-Quando clicarmos em editar, ele puxa o id do link e popula a tabela de editar
+Quando clicarmos em editar, ele puxa o **id** do link e popula a tabela de editar
 
  
