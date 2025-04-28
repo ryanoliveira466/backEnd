@@ -99,6 +99,8 @@ Página padrão do formulário.
 ```
 Parâmetro **id** para popular o campo de formulário de edição com os dados.
 
+---
+
 # 🗺️ Como navegar?
 
 Projeto simples para entendermos como o PHP e banco de dados funcionam junto com um Front-End, aqui seriam as navegações do site:
