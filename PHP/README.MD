@@ -14,7 +14,7 @@ Aprender a desenvolver sistemas utilizando PHP para banco de dados/backend.
  
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="200" />
 
-* Instale o MySQLWorkBench ou outro administrado de banco de dados - [SQLWorkBench - Página Oficial](https://www.mysql.com/products/workbench/)
+* Instale o MySQLWorkBench ou outro administrador de banco de dados - [SQLWorkBench - Página Oficial](https://www.mysql.com/products/workbench/)
 
  <img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" width="300" />
 
